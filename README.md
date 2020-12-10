@@ -4,12 +4,11 @@
 
 ###luz.github.io
 
-<h4 align="center"> 
 
 Link do projeto finalizado 	🚀 
-https://thiagodpaulla.github.io/luz.github.io/.
+https://thiagodpaulla.github.io/luz.github.io/
 
-</h4>
+
 
 
 
