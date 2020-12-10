@@ -46,8 +46,11 @@ Para realizar este trabalho foram usados alguns comandos que julguei relevantes 
 
 
 As seguintes ferramentas foram usadas na construção do projeto:
+![](https://github.com/thiagodpaulla/luz.github.io/blob/main/javascript.svg)
+
 
 
 
 
 Entre em contato vamos conversar: https://www.linkedin.com/in/thiagodepaulla/
+
