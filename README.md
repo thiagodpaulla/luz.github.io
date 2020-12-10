@@ -45,12 +45,5 @@ Para realizar este trabalho foram usados alguns comandos que julguei relevantes 
 ➜ Indexoff faz uma varredura da string procurando outro trecho da string e e quando ele não encontra e retorna o valor -1, então se ele encontra a palavra quebrada ele sabe que a imagem é quebrada então não deve acender a lâmpada, sendo assim ele deve encontra um valor >-1 demonstrando que a lâmpada não esta quebrada assim permitir que aja interação do usuário, quando o valor não foi encontrado
 
 
-As seguintes ferramentas foram usadas na construção do projeto:
-![](https://github.com/thiagodpaulla/luz.github.io/blob/main/javascript.svg)
-
-
-
-
-
 Entre em contato vamos conversar: https://www.linkedin.com/in/thiagodepaulla/
 
