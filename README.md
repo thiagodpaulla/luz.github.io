@@ -3,7 +3,7 @@
 
 # Olá e seja bem vindo ao  meu repositório
 ## Conheça A Lampada
-![](http)
+![](https://github.com/thiagodpaulla/luz.github.io/blob/main/L%C3%A2mpada.gif)
 ## Fique a vontade para interagir com o projeto no link:
 https://thiagodpaulla.github.io/luz.github.io/
 
