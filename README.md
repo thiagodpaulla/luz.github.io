@@ -1,55 +1,43 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
 
-# Olá e seja bem vindo ao  meu repositório
-## Conheça A Lampada
+# Hello and welcome to my repository
+## Meet The Lamp design
+
 ![](https://github.com/thiagodpaulla/luz.github.io/blob/main/L%C3%A2mpada.gif)
-## Fique a vontade para interagir com o projeto no link:
+
+## Feel free to interact with the project at the link:
 https://thiagodpaulla.github.io/luz.github.io/
 
-### Entenda um pouco mais sobre como foi criado.
+### Understand a little more about how it was created.
 
-<!--ts-->
- 
- * [Projeto](#projeto)  
- * [Tecnologias](#tecnologias) 
- * [licenca](#licenca) 
- 
- <!--te-->
+ * [Project](#project)
+ * [Technologies](#technologies)
+ * [License](#license)
 
-
-# Projeto
+# Project
 💻
 
+This is the design of a lamp that turns on and off by pressing the on or off button at the base of the lamp, it is also possible to turn it on and off with a mouse over the lamp, and also by double clicking on the lamp the image changes to broken.
 
-Este é o projeto de uma lâmpada que acende e apaga acionando o botão ligar ou desligar na base da lâmpada, também é possível acender e apagar a mesma com passar do mouse sobre a lâmpada, e também ao clicar duas vezes na lâmpada a imagem troca para quebrada.
+To carry out this work, some commands were used that I thought relevant to quote:
 
+Tre Estre is a project that works with events
 
+Ouver Mouseouver - turn on the lamp when you move the mouse over it
 
-Para realizar este trabalho foram usados alguns comandos que julguei relevantes citar:
+➜ Mouseleave - turns off the lamp when leaving the lamp area
 
- 
+Bl dblclick - Double Click to break the lamp
 
-➜ Estre é um projeto que Trabalha com eventos
+➜ Change the state of the button from on to off and off to on according to the condition of the lamp.
 
-➜ Mouseouver - acende a lâmpada ao passar com o mouse por cima dela
-
-➜ Mouseleave - apaga a lâmpada ao sair da área da lampada
-
-➜ dblclick - Duplo Click para quebrar a lâmpada
-
-➜ Mudar o estado do botão de ligado para desligado e desligado para ligado de acordo com a condição da lâmpada.
-
- 
-
- 
-
-➜ Indexoff faz uma varredura da string procurando outro trecho da string e e quando ele não encontra e retorna o valor -1, então se ele encontra a palavra quebrada ele sabe que a imagem é quebrada então não deve acender a lâmpada, sendo assim ele deve encontra um valor >-1 demonstrando que a lâmpada não esta quebrada assim permitir que aja interação do usuário, quando o valor não foi encontrado
+Off Indexoff scans the string looking for another part of the string and when it doesn't find and returns the value -1, then if it finds the word broken it knows that the image is broken so it shouldn't light the lamp, so it should find a value> -1 demonstrating that the lamp is not broken thus allowing user interaction to act, when the value was not found
 
 
-# Tecnologias
+# Technologies
 
-🚀 O projeto foi desenvolvido usando as seguintes tecnologias
+🚀 The project was developed using the following technologies
 
 
 ➜ JavaScript
@@ -59,6 +47,5 @@ Para realizar este trabalho foram usados alguns comandos que julguei relevantes 
 ➜ CSS
 
 
-# Licença
-📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
-
+# License
+📂 Distributed under the MIT license. See LICENSE for more information.
